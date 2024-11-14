@@ -1,0 +1,197 @@
+
+.title{
+    background-color: #f6f3eb ; 
+}
+.title table tr td{
+    color: #CB7119;
+    text-align: center;
+    padding-top: 1%;
+    letter-spacing: 1px;
+}
+.menu{
+    padding-left: 10%;
+}
+.menu table tr td{
+    color: #CB7119;
+}
+.font{
+    font-family:'Times New Roman', Times, serif;
+    font-size:50;
+}
+.clean{
+    color: #5E2C04; 
+    position: absolute;
+    top: 250%;
+    width: 100%;
+    text-align: center;
+    font-size: 460%;
+    font-family:'Times New Roman', Times, serif;
+}
+.explore{
+    color: black;
+    position: absolute;
+    top: 275%;
+    width: 100%;
+    text-align: center;
+    font-size: 200%;
+}
+.btn{
+    position: absolute;
+    top: 320%;
+    width: 10%;
+    height: 6%;
+
+}
+
+button{
+    background-color: white;
+    border: 2px solid black;
+    height: 10%;
+}
+.bttn{
+    padding-left: 46%;
+}
+.formulas{
+    color:#CB7119 ;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 5px;
+}
+.our{
+    color: #5E2C04;
+    font-size: 300%;
+    font-family:'Times New Roman', Times, serif;
+}
+.card{
+    width: 30%;
+    display: inline-block;
+    margin: 20px;
+    box-shadow: 2px 2px 10px black;
+}
+.image img{
+    width: 100%;
+   
+}
+.image1 img{
+    width: 100%;
+    
+}
+.image2 img{
+    width: 100%;
+}
+.container{
+    padding-left: 1%;
+}
+.text1{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    font-size:x-large;
+}
+.text2{
+    display: inline-block;
+    width: 120%;
+    text-align: center;
+    justify-content: center;
+    font-size:x-large;
+
+
+}
+.text3{
+    display: inline-block;
+    width: 170%;
+    text-align: center;
+    justify-content: center;
+    font-size:x-large;
+
+
+}
+.card1{
+    display: inline-block;
+    padding: 9%;
+    padding-top: 1%;
+}
+.press{
+    color: #CB7119;
+}
+.hair{
+    font-size: 300%;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing:3px;
+    color: #5E2C04;
+}
+.vogue{
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+}
+.radical{
+    color: #65350f; 
+    text-align: center;
+    font-size: 395%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+}
+.we{
+    font-size: 200%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 4px;
+}
+.shop{
+    padding: 8%;
+    padding-left: 43%;
+}
+.all{
+    padding: 4%;
+    text-align: center;
+    color: #65350f;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+}
+.results{
+    background-color: #f6f3eb;
+}
+.card2{
+    display: inline-block;
+    padding: 8%;
+    padding-top: 1%;
+}
+.text4{
+    display: inline-block;
+    width: 125%;
+    text-align: center;
+    justify-content: center;
+    font-size:x-large;
+}
+.keep{
+    color:black ;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+}
+.form{
+     padding-right: 1%;
+     color: gray; 
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.support{
+    color: #5E2C04;
+    font-family:'Times New Roman', Times, serif;
+}
+.last ul li{
+    list-style: none;
+}
+.list li{
+    list-style: none;
+}
+.list{
+    color: gray;
+}
+.superlast ul li{
+    color: gray;
+    list-style: none;
+    display: inline-block;
+    padding: 10%;
+}
+.superlast{
+    background-color: #f6f3eb;
+}
+
